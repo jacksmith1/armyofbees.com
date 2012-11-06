@@ -1,0 +1,7 @@
+/*  INTERNET EXPLORER 8 FIXES  */
+
+.portfolio .item.next-slide, .portfolio .item.prev-slide { display: none !important; }
+.portfolio .item.moving {
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+	filter: alpha(opacity=10);
+	}

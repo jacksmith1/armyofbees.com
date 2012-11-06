@@ -1,0 +1,132 @@
+@font-face {
+		font-family: 'Archer-Light';
+		src: url('../fonts/archer-light-pro.eot');
+		src: url('../fonts/archer-light-pro.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/archer-light-pro.woff') format('woff'),
+				 url('../fonts/archer-light-pro.ttf') format('truetype'),
+				 url('../fonts/archer-light-pro.svg#archer-light-pro') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'Archer-LightItalic';
+		src: url('../fonts/archer-lightital-pro.eot');
+		src: url('../fonts/archer-lightital-pro.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/archer-lightital-pro.woff') format('woff'),
+				 url('../fonts/archer-lightital-pro.ttf') format('truetype'),
+				 url('../fonts/archer-lightital-pro.svg#archer-lightital-pro') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'Archer-Medium';
+		src: url('../fonts/archer-medium-pro.eot');
+		src: url('../fonts/archer-medium-pro.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/archer-medium-pro.woff') format('woff'),
+				 url('../fonts/archer-medium-pro.ttf') format('truetype'),
+				 url('../fonts/archer-medium-pro.svg#archer-medium-pro') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'Archer-MediumItalic';
+		src: url('../fonts/archer-mediumital-pro.eot');
+		src: url('../fonts/archer-mediumital-pro.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/archer-mediumital-pro.woff') format('woff'),
+				 url('../fonts/archer-mediumital-pro.ttf') format('truetype'),
+				 url('../fonts/archer-mediumital-pro.svg#archer-mediumital-pro') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'Archer-Semibold';
+		src: url('../fonts/archer-semibold-pro.eot');
+		src: url('../fonts/archer-semibold-pro.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/archer-semibold-pro.woff') format('woff'),
+				 url('../fonts/archer-semibold-pro.ttf') format('truetype'),
+				 url('../fonts/archer-semibold-pro.svg#archer-semibold-pro') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'Archer-SemiboldItalic';
+		src: url('../fonts/archer-sembdital-pro.eot');
+		src: url('../fonts/archer-sembdital-pro.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/archer-sembdital-pro.woff') format('woff'),
+				 url('../fonts/archer-sembdital-pro.ttf') format('truetype'),
+				 url('../fonts/archer-sembdital-pro.svg#archer-sembdital-pro') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'Archer-Bold';
+		src: url('../fonts/archer-bold-pro.eot');
+		src: url('../fonts/archer-bold-pro.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/archer-bold-pro.woff') format('woff'),
+				 url('../fonts/archer-bold-pro.ttf') format('truetype'),
+				 url('../fonts/archer-bold-pro.svg#archer-bold-pro') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'Archer-BoldItalic';
+		src: url('../fonts/archer-boldital-pro.eot');
+		src: url('../fonts/archer-boldital-pro.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/archer-boldital-pro.woff') format('woff'),
+				 url('../fonts/archer-boldital-pro.ttf') format('truetype'),
+				 url('../fonts/archer-boldital-pro.svg#archer-boldital-pro') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+
+@font-face {
+		font-family: 'GothamRounded-Medium';
+		src: url('../fonts/gothamrnd-medium.eot');
+		src: url('../fonts/gothamrnd-medium.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/gothamrnd-medium.woff') format('woff'),
+				 url('../fonts/gothamrnd-medium.ttf') format('truetype'),
+				 url('../fonts/gothamrnd-medium.svg#gothamrnd-medium') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'GothamRounded-MediumItalic';
+		src: url('../fonts/gothamrnd-medital.eot');
+		src: url('../fonts/gothamrnd-medital.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/gothamrnd-medital.woff') format('woff'),
+				 url('../fonts/gothamrnd-medital.ttf') format('truetype'),
+				 url('../fonts/gothamrnd-medital.svg#gothamrnd-medital') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'GothamRounded-Bold';
+		src: url('../fonts/gothamrnd-bold.eot');
+		src: url('../fonts/gothamrnd-bold.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/gothamrnd-bold.woff') format('woff'),
+				 url('../fonts/gothamrnd-bold.ttf') format('truetype'),
+				 url('../fonts/gothamrnd-bold.svg#gothamrnd-bold') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'GothamRounded-BoldItalic';
+		src: url('../fonts/gothamrnd-boldital.eot');
+		src: url('../fonts/gothamrnd-boldital.eot?#iefix') format('embedded-opentype'),
+				 url('../fonts/gothamrnd-boldital.woff') format('woff'),
+				 url('../fonts/gothamrnd-boldital.ttf') format('truetype'),
+				 url('../fonts/gothamrnd-boldital.svg#gothamrnd-boldital') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
